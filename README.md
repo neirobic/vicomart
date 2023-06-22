@@ -28,3 +28,10 @@ Take a look at these couple examples that I have in my own portfolio:
 **Twitter Battle:** https://github.com/alecortega/twitter-battle
 
 **Patch Panel:** https://github.com/alecortega/patch-panel
+
+## TODO
+- [ ] re-name image files so they conform to a naming convention
+- [ ] refine website wireframe - mobile vs non-mobile version, figure out flow
+- [ ] work on design - fonts, colours, images etc
+- [ ] figure out how to do roof thing - svg transform??
+- [ ] figure out tagging system for images - use classes?
