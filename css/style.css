@@ -35,6 +35,13 @@ nav>ul {
     min-width: 90vw;
     min-height: 100px;
     border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: column;
 }
 
-
+.gallery section {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 5px;
+    background-color: rgb(0, 115, 255);
+}
